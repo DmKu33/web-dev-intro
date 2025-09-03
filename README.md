@@ -69,7 +69,7 @@ See Moodle.
 
 
 
-<!-- Add git milestones here 
+<!-- Add git milestones here ===
 
 1. Install Git on your machine
 1. Create a repository from scratch
